@@ -1,2 +1,1 @@
-# hello_world
-Just 🙃
+print("Hello world")
